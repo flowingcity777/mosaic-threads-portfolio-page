@@ -6,7 +6,7 @@ This repository contains the portfolio case study page for **Mosaic Threads**, a
 
 ## 🌐 Live Portfolio Page
 
-👉 https://flowingcity777.github.io/Mosaic-Threads-Portfolio-Page/
+👉 https://flowingcity777.github.io/mosaic-threads-portfolio-page/
 
 ---
 
